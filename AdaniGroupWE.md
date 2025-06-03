@@ -1,4 +1,11 @@
 
+## 💼 Adani Group, Gurgaon | Ahmedabad
+**Role:** Assistant Manager - Technology\
+**Duration:** Oct 2023 – Present
+
+---
+
+
 # Detailed Project Summary
 
 ### 🏥 (Healthcare Module) Intelligent Automation in Healthcare Systems
@@ -56,6 +63,7 @@ To reduce manual effort, improve candidate-job fit, and empower recruiters with 
 ✅ 90% improvement in reporting efficiency  
 ✅ 97% enhancement in data security and accuracy  
 ✅ Significant boost in recruiter productivity and hiring quality
+
 ---
 
 ### 🔊 **Google Speech-to-Text Integration**
