@@ -39,7 +39,7 @@ Software Engineer with 3+ years of experience (including full-time and internshi
 - **Programming:** Java, JavaScript, TypeScript
 - **Development & Database:** HTML, CSS, React.js, Node.js, Nest.js, SQL, MongoDB, Git, GitHub, VS Code, Power BI, Power Apps
 - **Coursework:** DSA, OOP, DBMS, OS, CN
-- **Certifications:** Google Cloud Certified: ACE (Google), Web Development (Udemy), React.js (Udemy), Bootstrap (Coursera)
+- **Certifications:** Google Cloud Certified: ACE (Google), Microsoft Certified: Azure Developer Associate (Microsoft), Web Development (Udemy), React.js (Udemy), Bootstrap (Coursera)
 
 ## Academic Projects
 
