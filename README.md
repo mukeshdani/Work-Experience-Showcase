@@ -7,7 +7,7 @@ Software Engineer with 3+ years of experience (including full-time and internshi
 
 ## Experience
 
-### Adani Group, Ahmedabad: Assistant Manager - Technology (Oct 2023 – Present)
+### [Adani Group, Ahmedabad: Assistant Manager - Technology (Oct 2023 – Present)](https://github.com/mukeshdani/Work-Experience-Showcase/blob/main/AdaniGroupWE.md)
 - **Projects:** Healthcare Module, Employee Attendance Data Management Module, Talent Acquisition Dashboard/Data Integration.
 - **My Role and Contribution:**
   - **Healthcare Module:** Integrated a new line of business into the EHR application. Automated doctor-patient interactions using Google Speech-to-Text and NLP APIs, reducing documentation time by 70% and improving prescription accuracy by 85%, handling 1,000+ daily interactions.
@@ -16,7 +16,7 @@ Software Engineer with 3+ years of experience (including full-time and internshi
   - **IT Infra:** Managed IAM roles and optimized ESXI licenses. Implemented Terraform-based IaC for 30% faster deployments.
 - **Technologies:** React, Node.js, JavaScript, Azure, Docker, SQL, Power BI, Power Apps, MongoDB, Microservices, Agile, TDD
 
-### Adani Group, Gurgaon: Software Engineer (Backend Engineer) Intern (Jan 2023 – Oct 2023)
+### [Adani Group, Gurgaon: Software Engineer (Backend Engineer) Intern (Jan 2023 – Oct 2023)](https://github.com/mukeshdani/Work-Experience-Showcase/blob/main/AdaniInternWE.md)
 - **Projects:** Food and Beverages, Mutual Fund, Forex Line of Business
 - **My Role and Contribution:**
   - **Feature Development:** Worked as a Backend Engineer, integrating the food and beverages Line of Business into the order management system for Adani One Application, enhancing operational efficiency and customer satisfaction by 50%. Integrated webhooks into the forex system and improved mutual fund application onboarding, increasing transaction processing speed by 30%.
@@ -25,7 +25,7 @@ Software Engineer with 3+ years of experience (including full-time and internshi
   - **Performance Monitoring:** Monitored logs and performance metrics using Grafana, improving system up-time by 60-70%.
 - **Technologies:** Node.js, Nest.js, TypeScript, JavaScript, MongoDB, Prisma ORM, Jest (Unit Testing)
 
-### Pepcoding Education PVT LTD, Noida: Web Developer Intern (Feb 2022 – Aug 2022)
+### [Pepcoding Education PVT LTD, Noida: Web Developer Intern (Feb 2022 – Aug 2022)](https://github.com/mukeshdani/Work-Experience-Showcase/blob/main/PepcodingWE.md)
 - **Projects:** The Nados web app, integrating the development environment module using React.js. Additionally, served as a TA, solving over 700+ problems and resolving more than 500+ issues in DSA, CN, DBMS, OS, and SQL.
 
 ## Education
