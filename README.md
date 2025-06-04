@@ -41,16 +41,6 @@ Software Engineer with 3+ years of experience (including full-time and internshi
 - **Coursework:** DSA, OOP, DBMS, OS, CN
 - **Certifications:** Google Cloud Certified: ACE (Google), Microsoft Certified: Azure Developer Associate (Microsoft), Web Development (Udemy), React.js (Udemy), Bootstrap (Coursera)
 
-## Academic Projects
-
-### My Drive (Operating System) (Sep 2021 – Mar 2022)
-- **Live Demo | GitHub**
-- Allows users to create nested folders, manage text files and albums, and uses Local Storage for data.
-
-### Meal Plans Delivery Website (May 2022 - Dec 2022)
-- **Live Demo | GitHub**
-- Meal Plans website: Frontend: React, Backend: Express. Future improvements: videos, feedback, meal level.
-
 ## Achievements
 
 - Solved 600+ problems in Java across platforms like Leetcode, CodeChef, GFG, Pepcoding (NADOS). Rank 1086/17K+ in Leetcode Weekly Contest 323. Global Rank 346 in CodeChef (STARTERS69).
