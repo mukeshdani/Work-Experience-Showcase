@@ -49,12 +49,9 @@ To enable real-time, conversational access to HR data and automate insights for 
 Built a comprehensive **talent acquisition dashboard** and centralized **data lake** by integrating data from **Oracle Fusion, HRMS, and Tydy** using APIs and SQL. Ensured **97% data accuracy** and implemented an **admin portal** for secure access control.
 
 Deployed a suite of **agentic AI capabilities** to automate and optimize recruitment:
-- **Resume Parsing Agent**: Used NLP (NER, section classification, skill extraction) to convert unstructured resumes into structured profiles.
-- **Candidate Matching Agent**: Applied semantic similarity and rule-based filters to match candidates with job requirements.
-- **Recruiter Assistant Chatbot**: Built with **LangChain Agents + OpenAI**, enabling recruiters to:
+  - **Recruiter Assistant Chatbot**: Built with **LangChain Agents + OpenAI**, enabling recruiters to:
   - Retrieve real-time hiring metrics (e.g., open requisitions, pipeline status).
   - Summarize candidate profiles and interview feedback.
-  - Automate workflows like interview scheduling and status updates.
 
 **Why**  
 To reduce manual effort, improve candidate-job fit, and empower recruiters with intelligent, conversational tools.
